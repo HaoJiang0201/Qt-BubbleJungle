@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/LoveMark.jpg</file>
+        <file>android/ScoreMark.jpg</file>
+        <file>android/TimeMark.jpg</file>
+        <file>android/BottomCoverBar0.png</file>
+        <file>android/BottomCoverBar1.png</file>
+        <file>android/BottomCoverBar2.png</file>
+        <file>android/BottomCoverBar3.png</file>
+        <file>android/LeftCoverBar0.png</file>
+        <file>android/LeftCoverBar1.png</file>
+        <file>android/LeftCoverBar2.png</file>
+        <file>android/LeftCoverBar3.png</file>
+        <file>android/RightCoverBar0.png</file>
+        <file>android/RightCoverBar1.png</file>
+        <file>android/RightCoverBar2.png</file>
+        <file>android/RightCoverBar3.png</file>
+        <file>android/TopCoverBar0.png</file>
+        <file>android/TopCoverBar1.png</file>
+        <file>android/TopCoverBar2.png</file>
+        <file>android/TopCoverBar3.png</file>
+    </qresource>
+</RCC>

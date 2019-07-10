@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/MusicList.ini</file>
+        <file>android/RecordList.ini</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/GameBGP00.jpg</file>
+        <file>android/GameBGP01.jpg</file>
+        <file>android/GameBGP01Hide.jpg</file>
+        <file>android/GameBGP02.jpg</file>
+        <file>android/GameBGP02Hide.jpg</file>
+        <file>android/GameBGP10.jpg</file>
+        <file>android/GameBGP11.jpg</file>
+        <file>android/GameBGP11Hide.jpg</file>
+        <file>android/GameBGP12.jpg</file>
+        <file>android/GameBGP12Hide.jpg</file>
+        <file>android/GameBGP20.jpg</file>
+        <file>android/GameBGP21.jpg</file>
+        <file>android/GameBGP21Hide.jpg</file>
+        <file>android/GameBGP22.jpg</file>
+        <file>android/GameBGP22Hide.jpg</file>
+        <file>android/GameBGP30.jpg</file>
+        <file>android/GameBGP31.jpg</file>
+        <file>android/GameBGP31Hide.jpg</file>
+        <file>android/GameBGP32.jpg</file>
+        <file>android/GameBGP32Hide.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/BtnClick.mp3</file>
+        <file>android/BubbleFall.mp3</file>
+        <file>android/BubbleRemove.mp3</file>
+        <file>android/Camera.mp3</file>
+        <file>android/GameFailed.mp3</file>
+        <file>android/GameSucceed.mp3</file>
+        <file>android/Locked.mp3</file>
+        <file>android/Paper.mp3</file>
+        <file>android/Unlock.mp3</file>
+    </qresource>
+</RCC>

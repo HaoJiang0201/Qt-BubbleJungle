@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/AnimateBubble0.png</file>
+        <file>android/AnimateBubble1.png</file>
+        <file>android/AnimateBubble2.png</file>
+        <file>android/AnimateBubble3.png</file>
+        <file>android/AnimateBubble4.png</file>
+        <file>android/AnimateBubble5.png</file>
+        <file>android/AnimateBubble6.png</file>
+        <file>android/AnimateBubble7.png</file>
+        <file>android/AnimateBubble8.png</file>
+        <file>android/AnimateBubble9.png</file>
+        <file>android/AnimateBubble10.png</file>
+        <file>android/AnimateBubble11.png</file>
+        <file>android/Bubble0.png</file>
+        <file>android/Bubble1.png</file>
+        <file>android/Bubble2.png</file>
+        <file>android/Bubble3.png</file>
+        <file>android/Bubble4.png</file>
+        <file>android/Bubble5.png</file>
+        <file>android/Bubble6.png</file>
+        <file>android/Bubble7.png</file>
+    </qresource>
+</RCC>

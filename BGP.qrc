@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/CharacterSelectBGP.jpg</file>
+        <file>android/HelpBGP_Contact.jpg</file>
+        <file>android/HelpBGP_Rule.jpg</file>
+        <file>android/MainBGP.jpg</file>
+        <file>android/MainMenuBGP.jpg</file>
+        <file>android/ModeSelectBGP.jpg</file>
+        <file>android/WhiteCover.png</file>
+    </qresource>
+</RCC>

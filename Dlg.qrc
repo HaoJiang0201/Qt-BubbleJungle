@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/GameFailed.jpg</file>
+        <file>android/GameOver.jpg</file>
+        <file>android/GamePause.jpg</file>
+        <file>android/GameSucceed.jpg</file>
+        <file>android/GiveUpGame.jpg</file>
+        <file>android/KingModelRemind.jpg</file>
+        <file>android/KingRemind.jpg</file>
+        <file>android/KingUnlock.jpg</file>
+        <file>android/NewRecord.jpg</file>
+        <file>android/ScoreModelRemind.jpg</file>
+        <file>android/SurviveModelRemind.jpg</file>
+        <file>android/SurviveRemind.jpg</file>
+        <file>android/SurviveUnlock.jpg</file>
+    </qresource>
+</RCC>

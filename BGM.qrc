@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/Info.mp3</file>
+        <file>android/Lev1.mp3</file>
+        <file>android/Lev2.mp3</file>
+        <file>android/MainBGM.mp3</file>
+        <file>android/Memory.mp3</file>
+        <file>android/Role0.mp3</file>
+        <file>android/Role1.mp3</file>
+        <file>android/Role2.mp3</file>
+        <file>android/Role3.mp3</file>
+    </qresource>
+</RCC>

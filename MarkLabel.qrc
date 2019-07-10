@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>android/RecordGalleryTitle.png</file>
+        <file>android/RecordKingDCLV0.png</file>
+        <file>android/RecordKingDCLV1.png</file>
+        <file>android/RecordKingDCLV2.png</file>
+        <file>android/RecordKingTitle.png</file>
+        <file>android/RecordKingXSLV0.png</file>
+        <file>android/RecordKingXSLV1.png</file>
+        <file>android/RecordKingXSLV2.png</file>
+        <file>android/RecordKingYHLV0.png</file>
+        <file>android/RecordKingYHLV1.png</file>
+        <file>android/RecordKingYHLV2.png</file>
+        <file>android/RecordKingZJLV0.png</file>
+        <file>android/RecordKingZJLV1.png</file>
+        <file>android/RecordKingZJLV2.png</file>
+        <file>android/RecordScoreDCLV0.png</file>
+        <file>android/RecordScoreDCLV1.png</file>
+        <file>android/RecordScoreDCLV2.png</file>
+        <file>android/RecordScoreTitle.png</file>
+        <file>android/RecordScoreXSLV0.png</file>
+        <file>android/RecordScoreXSLV1.png</file>
+        <file>android/RecordScoreXSLV2.png</file>
+        <file>android/RecordScoreYHLV0.png</file>
+        <file>android/RecordScoreYHLV1.png</file>
+        <file>android/RecordScoreYHLV2.png</file>
+        <file>android/RecordScoreZJLV0.png</file>
+        <file>android/RecordScoreZJLV1.png</file>
+        <file>android/RecordScoreZJLV2.png</file>
+        <file>android/RecordSurvive0.png</file>
+        <file>android/RecordSurvive1.png</file>
+        <file>android/RecordSurvive2.png</file>
+        <file>android/RecordSurvive3.png</file>
+        <file>android/RecordSurviveTitle.png</file>
+    </qresource>
+</RCC>

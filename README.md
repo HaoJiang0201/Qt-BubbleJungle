@@ -1,6 +1,6 @@
 # Qt Project: Bubble Jungle Original Full-Edition
 
-A bubble remove puzzle game. Let's find out pretties in a jungle.  
+A bubble removes puzzle game. Let's find out pretties in a jungle.  
 This is an advertisement project for the comic "Yi Shuo".
 
 Created By:
